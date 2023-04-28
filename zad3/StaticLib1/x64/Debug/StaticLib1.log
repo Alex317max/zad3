@@ -1,0 +1,3 @@
+﻿  pch.cpp
+C:\Users\Admin\Desktop\Zadanie 3\StaticLib1\pch.cpp(26): warning C4715: Vzyatie: значение возвращается не при всех путях выполнения
+  StaticLib1.vcxproj -> C:\Users\Admin\Desktop\Zadanie 3\x64\Debug\StaticLib1.lib
